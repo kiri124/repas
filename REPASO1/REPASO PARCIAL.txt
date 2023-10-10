@@ -1,0 +1,47 @@
+Que representan los datos no estructurados en el mundo de datos?
+- El 80%
+
+Ejemplos de no estructurados:
+-imagenes
+-videos
+-correo
+-sms
+---------------------------------------------------------------
+
+ORM
+Es un modelo de programaciion que te permite conectarte con cualquier tipo de base de datos.
+
+PUERTOS DE UNA COMPUTADORA 
+49k aprox.
+----------------------------------------------------------------
+
+Big Data 10 3 1
+
+10:10 teras
+3: fuentes de datos diversas
+1:la respuesta del segund o cercana al segundo
+-----------------------------------------------------------------
+SESION 1:
+- fluter es hibrido y multiplataforma
+- Modelo OSI (7 capas)
+- Modelo TCP (4 capas)
+
+- HTTPS es ms seguro que HTTP
+
+- DOCTYPE indica que se està usando html5
+revisar los metadatos del documento (sesion 1)
+-----------------------------------------------------------------
+SESION 2:
+- Programaciòn declarativa e imperativa:
+-declarativa:conoce el paso a paso de como procesan los datos
+	-funcional
+	-logica
+-imperativa:no se conoce el paso a paso de como procesan los datos
+	-orientada a objetos
+
+
+-POP()
+-CONCAT()
+
+----------------------------------------------------------------
+BOOTSTRAP

@@ -1,0 +1,26 @@
+/*MARCO*/
+body{
+    width: 1200px;
+    margin: 0 auto;
+    background-color: rgb(223, 204, 204);
+    padding: 0 20px 20px 20px;
+    border: 10px solid black;
+}
+
+/*Dar estilo a los p*/
+P{
+    margin: 0 auto;
+    color: black;
+    width: 500px;
+    /*border: 1px solid black;*/
+    text-align: center;
+}
+
+/*Dar estilo a los h*/
+h1{
+    color: black;
+    text-align: center;
+    font-size: 40px;
+    letter-spacing: 4px;
+    line-height: 60px;
+}
